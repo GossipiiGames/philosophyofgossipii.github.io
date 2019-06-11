@@ -1,8 +1,10 @@
 body {
     background-color: lawngreen;
+    font-family: 'Lucida Console', 'Comic Sans MS', sans-serif;
+    text-align: center;
 }
 
-ul li {
+ul li { //For navigation menu at the top.
     list-style: none;
     display: inline;
 }
