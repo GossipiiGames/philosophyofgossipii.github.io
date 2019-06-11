@@ -6,5 +6,16 @@ body {
 
 ul li { //For navigation menu at the top.
     list-style: none;
-    display: inline;
+}
+
+#header {
+
+}
+
+nav {
+
+}
+
+#allcontent {
+
 }
