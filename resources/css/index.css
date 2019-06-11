@@ -1,0 +1,8 @@
+body {
+    background-color: lawngreen;
+}
+
+ul li {
+    list-style: none;
+    display: inline;
+}
