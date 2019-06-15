@@ -4,7 +4,8 @@ body {
     text-align: center;
 }
 
-ul li { //For navigation menu at the top.
+//For navigation menu at the top.
+ul li {
     list-style: none;
 }
 
@@ -12,10 +13,28 @@ ul li { //For navigation menu at the top.
 
 }
 
+#navflex {
+    display: flex;
+    justify-content: center;
+
+}
+
 nav {
 
 }
 
-#allcontent {
+#backgroundflex {
+    display: inline-flex;
+}
 
+#fprojectsflex {
+    display: inline-flex;
+}
+
+#oprojectsflex {
+    display: inline-flex;
+}
+
+#cwoflex {
+    display: inline-flex;
 }
